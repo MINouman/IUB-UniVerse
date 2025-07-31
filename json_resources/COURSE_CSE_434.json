@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 434: Advance Programming in UNIX - A 3-credit technical elective course covering practical IT skills and technologies. Prerequisites: CSE 315.",
+    "metadata": {
+      "course_code": "CSE 434",
+      "course_name": "Advance Programming in UNIX",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 10: Information Technology",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 315"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "it"
+    }
+  }
+}

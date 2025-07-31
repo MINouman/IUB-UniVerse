@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "MAT 430: Differential Equations and Dynamical Systems - A technical elective course applying computational methods to scientific problems. Prerequisites: CSE 317,CSE 317L.",
+    "metadata": {
+      "course_code": "MAT 430",
+      "course_name": "Differential Equations and Dynamical Systems",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 08: Scientific Computing",
+      "credits": null,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L"
+      ],
+      "department": "MAT",
+      "level": "400",
+      "area": "scientific_computing"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 473: Natural Language Processing - A 3-credit technical elective course exploring AI, machine learning, and intelligent algorithms. Prerequisites: CSE 424,CSE 417.",
+    "metadata": {
+      "course_code": "CSE 473",
+      "course_name": "Natural Language Processing",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 05: Intelligent Systems",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 424",
+        "CSE 417"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "ai_ml"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 307: System Analysis and Design - A 3-credit technical elective course focusing on software development methodologies and practices. Prerequisites: CSE 451,CSE 451L.",
+    "metadata": {
+      "course_code": "CSE 307",
+      "course_name": "System Analysis and Design",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 01: Software Engineering",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 451",
+        "CSE 451L"
+      ],
+      "department": "CSE",
+      "level": "300",
+      "area": "software_engineering"
+    }
+  }
+}

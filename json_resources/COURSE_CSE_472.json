@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 472: Cloud Computing - A 3-credit technical elective course focusing on data analytics and digitalization. Prerequisites: CSE 309.",
+    "metadata": {
+      "course_code": "CSE 472",
+      "course_name": "Cloud Computing",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 09: Data Analytics & Digitalization",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 309"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "analytics"
+    }
+  }
+}

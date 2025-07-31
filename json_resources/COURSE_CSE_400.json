@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 400: Data Communication - A 3-credit technical elective course covering computer networks and communication systems. Prerequisites: CSE 316,CSE 316L.",
+    "metadata": {
+      "course_code": "CSE 400",
+      "course_name": "Data Communication",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 02: Data Communication & Networking",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 316",
+        "CSE 316L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "networking"
+    }
+  }
+}

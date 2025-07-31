@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 402: Wireless Networking & Mobile Communication - A 3-credit technical elective course covering computer networks and communication systems. Prerequisites: CSE 400.",
+    "metadata": {
+      "course_code": "CSE 402",
+      "course_name": "Wireless Networking & Mobile Communication",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 02: Data Communication & Networking",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 400"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "networking"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 104: Electrical Circuit Analysis - A 3-credit core course. Prerequisites: PHY 101. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 104",
+      "course_name": "Electrical Circuit Analysis",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 3,
+      "prerequisites": [
+        "PHY 101"
+      ],
+      "department": "CSE",
+      "level": "100",
+      "area": "core"
+    }
+  }
+}

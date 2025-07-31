@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "HEA 101: Health and Society - A 3-credit foundation course exploring social, economic, and anthropological perspectives. Part of Foundation curriculum (6 credits total).",
+    "metadata": {
+      "course_code": "HEA 101",
+      "course_name": "Health and Society",
+      "course_type": "Foundation",
+      "course_subtype": "Social Sciences (Credits:6)",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "HEA",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

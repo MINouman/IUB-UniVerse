@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 425: Artificial Intelligence - A 3-credit core course. Prerequisites: CSE 317. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 425",
+      "course_name": "Artificial Intelligence",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "core"
+    }
+  }
+}

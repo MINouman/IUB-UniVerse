@@ -1,0 +1,1536 @@
+{
+  "document_type": "classroom_reallocation",
+  "semester": "Summer 2025",
+  "entries": [
+    {
+      "sl_number": 1,
+      "school": "SBE",
+      "course_id": "ACN202",
+      "section": "16",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "BC3002",
+      "new_room": "BC2011"
+    },
+    {
+      "sl_number": 2,
+      "school": "SBE",
+      "course_id": "ACN202",
+      "section": "7",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC2014",
+      "new_room": "BC4013"
+    },
+    {
+      "sl_number": 3,
+      "school": "SBE",
+      "course_id": "ACN202",
+      "section": "10",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC2012",
+      "new_room": "BC4014"
+    },
+    {
+      "sl_number": 4,
+      "school": "SBE",
+      "course_id": "ACN202",
+      "section": "15",
+      "day": "MW",
+      "time": "08:00-09:30",
+      "previous_room": "BC3008",
+      "new_room": "BC4010"
+    },
+    {
+      "sl_number": 5,
+      "school": "SBE",
+      "course_id": "ACN305",
+      "section": "2",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC2010",
+      "new_room": "C6006"
+    },
+    {
+      "sl_number": 6,
+      "school": "SBE",
+      "course_id": "ACN402",
+      "section": "1",
+      "day": "MW",
+      "time": "09:40-11:10",
+      "previous_room": "BC2011",
+      "new_room": "BC4011"
+    },
+    {
+      "sl_number": 7,
+      "school": "SBE",
+      "course_id": "ACN405",
+      "section": "2",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "BC2009",
+      "new_room": "C2006"
+    },
+    {
+      "sl_number": 8,
+      "school": "SBE",
+      "course_id": "BUS201",
+      "section": "14",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "C2005",
+      "new_room": "BC6012"
+    },
+    {
+      "sl_number": 9,
+      "school": "SBE",
+      "course_id": "BUS201",
+      "section": "5",
+      "day": "MW",
+      "time": "08:00-09:30",
+      "previous_room": "C3004",
+      "new_room": "BC3008"
+    },
+    {
+      "sl_number": 10,
+      "school": "SBE",
+      "course_id": "BUS201",
+      "section": "1",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "BC2012",
+      "new_room": "BC2013"
+    },
+    {
+      "sl_number": 11,
+      "school": "SBE",
+      "course_id": "BUS201",
+      "section": "8",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "MK5004",
+      "new_room": "BC2010"
+    },
+    {
+      "sl_number": 12,
+      "school": "SBE",
+      "course_id": "BUS202",
+      "section": "10",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "BC4013",
+      "new_room": "BC10015"
+    },
+    {
+      "sl_number": 13,
+      "school": "SBE",
+      "course_id": "BUS202",
+      "section": "8",
+      "day": "MW",
+      "time": "09:40-11:10",
+      "previous_room": "MK5004",
+      "new_room": "BC2011"
+    },
+    {
+      "sl_number": 14,
+      "school": "SBE",
+      "course_id": "BUS202",
+      "section": "14",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "C2005",
+      "new_room": "BC2010"
+    },
+    {
+      "sl_number": 15,
+      "school": "SBE",
+      "course_id": "BUS360",
+      "section": "8",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC2022",
+      "new_room": "BC2020"
+    },
+    {
+      "sl_number": 16,
+      "school": "SBE",
+      "course_id": "BUS360",
+      "section": "5",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "BC9017",
+      "new_room": "BC2014"
+    },
+    {
+      "sl_number": 17,
+      "school": "SBE",
+      "course_id": "BUS485",
+      "section": "5",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "BC4011",
+      "new_room": "BC2020"
+    },
+    {
+      "sl_number": 18,
+      "school": "SBE",
+      "course_id": "ECN201",
+      "section": "4",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC2020",
+      "new_room": "BC8014"
+    },
+    {
+      "sl_number": 19,
+      "school": "SBE",
+      "course_id": "ECN201",
+      "section": "6",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "BC4013",
+      "new_room": "MK4005"
+    },
+    {
+      "sl_number": 20,
+      "school": "SBE",
+      "course_id": "ECN201",
+      "section": "10",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "BC7026",
+      "new_room": "BC4010"
+    },
+    {
+      "sl_number": 21,
+      "school": "SBE",
+      "course_id": "ECN201",
+      "section": "7",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC3010",
+      "new_room": "BC4010"
+    },
+    {
+      "sl_number": 22,
+      "school": "SBE",
+      "course_id": "ECN202",
+      "section": "10",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "BC2020",
+      "new_room": "BC4011"
+    },
+    {
+      "sl_number": 23,
+      "school": "SBE",
+      "course_id": "ECN302",
+      "section": "1",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "C4006",
+      "new_room": "C6005"
+    },
+    {
+      "sl_number": 24,
+      "school": "SBE",
+      "course_id": "ECN330",
+      "section": "1",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "C5006",
+      "new_room": "MK4007"
+    },
+    {
+      "sl_number": 25,
+      "school": "SBE",
+      "course_id": "ECN340",
+      "section": "1",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "C3007",
+      "new_room": "C4004"
+    },
+    {
+      "sl_number": 26,
+      "school": "SBE",
+      "course_id": "ECN402",
+      "section": "1",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "MK4005",
+      "new_room": "BC4013"
+    },
+    {
+      "sl_number": 27,
+      "school": "SBE",
+      "course_id": "FIN302",
+      "section": "1",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "BC5002",
+      "new_room": "BC8015"
+    },
+    {
+      "sl_number": 28,
+      "school": "SBE",
+      "course_id": "FIN304",
+      "section": "1",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "BC9014",
+      "new_room": "BC4012"
+    },
+    {
+      "sl_number": 29,
+      "school": "SBE",
+      "course_id": "FIN401",
+      "section": "2",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "BC9014",
+      "new_room": "BC2013"
+    },
+    {
+      "sl_number": 30,
+      "school": "SBE",
+      "course_id": "FIN460",
+      "section": "3",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "BC4043",
+      "new_room": "BC4013"
+    },
+    {
+      "sl_number": 31,
+      "school": "SBE",
+      "course_id": "FIN480",
+      "section": "1",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "BC4011",
+      "new_room": "BC2009"
+    },
+    {
+      "sl_number": 32,
+      "school": "SBE",
+      "course_id": "MGT330",
+      "section": "5",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC5002",
+      "new_room": "BC2012"
+    },
+    {
+      "sl_number": 33,
+      "school": "SBE",
+      "course_id": "MGT330",
+      "section": "9",
+      "day": "MW",
+      "time": "08:00-09:30",
+      "previous_room": "BC9017",
+      "new_room": "BC2021"
+    },
+    {
+      "sl_number": 34,
+      "school": "SBE",
+      "course_id": "MGT340",
+      "section": "1",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC4013",
+      "new_room": "BC2014"
+    },
+    {
+      "sl_number": 35,
+      "school": "SBE",
+      "course_id": "MGT490",
+      "section": "7",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "BC4012",
+      "new_room": "BC10015"
+    },
+    {
+      "sl_number": 36,
+      "school": "SBE",
+      "course_id": "MGT490",
+      "section": "5",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC3002",
+      "new_room": "BC3012"
+    },
+    {
+      "sl_number": 37,
+      "school": "SBE",
+      "course_id": "MIS341",
+      "section": "1",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC4012",
+      "new_room": "BC2022"
+    },
+    {
+      "sl_number": 38,
+      "school": "SBE",
+      "course_id": "MIS405",
+      "section": "1",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "MK5005",
+      "new_room": "BC4012"
+    },
+    {
+      "sl_number": 39,
+      "school": "SBE",
+      "course_id": "MIS405",
+      "section": "2",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC9014",
+      "new_room": "BC4013"
+    },
+    {
+      "sl_number": 40,
+      "school": "SBE",
+      "course_id": "MKT201",
+      "section": "1",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "BC4013",
+      "new_room": "BC5002"
+    },
+    {
+      "sl_number": 41,
+      "school": "SBE",
+      "course_id": "MKT201",
+      "section": "12",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "MK4004",
+      "new_room": "BC2011"
+    },
+    {
+      "sl_number": 42,
+      "school": "SBE",
+      "course_id": "MKT201",
+      "section": "6",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC4010",
+      "new_room": "BC3010"
+    },
+    {
+      "sl_number": 43,
+      "school": "SBE",
+      "course_id": "MKT470",
+      "section": "1",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "BC4014",
+      "new_room": "BC3002"
+    },
+    {
+      "sl_number": 44,
+      "school": "SBE",
+      "course_id": "MKT475",
+      "section": "1",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "MK5005",
+      "new_room": "BC2013"
+    },
+    {
+      "sl_number": 45,
+      "school": "SELS",
+      "course_id": "BCB205",
+      "section": "1",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "BC10015",
+      "new_room": "BC4013"
+    },
+    {
+      "sl_number": 46,
+      "school": "SELS",
+      "course_id": "BCB204",
+      "section": "2",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC10017",
+      "new_room": "BC10014"
+    },
+    {
+      "sl_number": 47,
+      "school": "SELS",
+      "course_id": "BCB205",
+      "section": "2",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "BC10017",
+      "new_room": "C3003"
+    },
+    {
+      "sl_number": 48,
+      "school": "SELS",
+      "course_id": "BCB304",
+      "section": "1",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC10014",
+      "new_room": "C2003"
+    },
+    {
+      "sl_number": 49,
+      "school": "SELS",
+      "course_id": "BCB401",
+      "section": "1",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC8015",
+      "new_room": "BC9016"
+    },
+    {
+      "sl_number": 50,
+      "school": "SELS",
+      "course_id": "BCB402",
+      "section": "2",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "C3003",
+      "new_room": "BC8013"
+    },
+    {
+      "sl_number": 51,
+      "school": "SELS",
+      "course_id": "BCB407",
+      "section": "1",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "C4006",
+      "new_room": "C4005"
+    },
+    {
+      "sl_number": 52,
+      "school": "SELS",
+      "course_id": "BIO100",
+      "section": "2",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "BC10017",
+      "new_room": "BC10015"
+    },
+    {
+      "sl_number": 53,
+      "school": "SELS",
+      "course_id": "CHE101",
+      "section": "1",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC9015",
+      "new_room": "BC7025"
+    },
+    {
+      "sl_number": 54,
+      "school": "SELS",
+      "course_id": "ENV101",
+      "section": "15",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "BC2014",
+      "new_room": "BC9017"
+    },
+    {
+      "sl_number": 55,
+      "school": "SELS",
+      "course_id": "ENV101",
+      "section": "8",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC9015",
+      "new_room": "BC8015"
+    },
+    {
+      "sl_number": 56,
+      "school": "SELS",
+      "course_id": "ENV304",
+      "section": "1",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC8015",
+      "new_room": "BC9015"
+    },
+    {
+      "sl_number": 57,
+      "school": "SELS",
+      "course_id": "ENV320",
+      "section": "1",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "BC2013",
+      "new_room": "BC9016"
+    },
+    {
+      "sl_number": 58,
+      "school": "SELS",
+      "course_id": "MCB101",
+      "section": "1",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "BC10017",
+      "new_room": "BC10014"
+    },
+    {
+      "sl_number": 59,
+      "school": "SELS",
+      "course_id": "MCB102",
+      "section": "4",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "MK5005",
+      "new_room": "BC8014"
+    },
+    {
+      "sl_number": 60,
+      "school": "SELS",
+      "course_id": "MCB103",
+      "section": "2",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "C2006",
+      "new_room": "BC9015"
+    },
+    {
+      "sl_number": 61,
+      "school": "SELS",
+      "course_id": "MCB201",
+      "section": "2",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "C5005",
+      "new_room": "BC10015"
+    },
+    {
+      "sl_number": 62,
+      "school": "SELS",
+      "course_id": "MCB204",
+      "section": "3",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "C2005",
+      "new_room": "BC9014"
+    },
+    {
+      "sl_number": 63,
+      "school": "SELS",
+      "course_id": "MCB301",
+      "section": "2",
+      "day": "MW",
+      "time": "08:00-09:30",
+      "previous_room": "BC4010",
+      "new_room": "BC9017"
+    },
+    {
+      "sl_number": 64,
+      "school": "SELS",
+      "course_id": "MCB302",
+      "section": "2",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "BC9015",
+      "new_room": "BC9014"
+    },
+    {
+      "sl_number": 65,
+      "school": "SELS",
+      "course_id": "MCB310",
+      "section": "2",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "C6002",
+      "new_room": "BC8014"
+    },
+    {
+      "sl_number": 66,
+      "school": "SELS",
+      "course_id": "MCB311",
+      "section": "2",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC8014",
+      "new_room": "C6002"
+    },
+    {
+      "sl_number": 67,
+      "school": "SELS",
+      "course_id": "MCB311",
+      "section": "1",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "C6006",
+      "new_room": "MK4008"
+    },
+    {
+      "sl_number": 68,
+      "school": "SELS",
+      "course_id": "MCB402",
+      "section": "1",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "C5007",
+      "new_room": "BC9015"
+    },
+    {
+      "sl_number": 69,
+      "school": "SELS",
+      "course_id": "MCB403",
+      "section": "1",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "C3003",
+      "new_room": "MK4010"
+    },
+    {
+      "sl_number": 70,
+      "school": "SELS",
+      "course_id": "MCB406",
+      "section": "1",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "C3003",
+      "new_room": "BC10017"
+    },
+    {
+      "sl_number": 71,
+      "school": "SETS",
+      "course_id": "CIS101",
+      "section": "4",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "BC8015",
+      "new_room": "BC5002"
+    },
+    {
+      "sl_number": 72,
+      "school": "SETS",
+      "course_id": "CSC301",
+      "section": "3",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "BC4010",
+      "new_room": "BC6012"
+    },
+    {
+      "sl_number": 73,
+      "school": "SETS",
+      "course_id": "CSE200",
+      "section": "9",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "MK4010",
+      "new_room": "C3003"
+    },
+    {
+      "sl_number": 74,
+      "school": "SETS",
+      "course_id": "CSE201",
+      "section": "2",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "C4005",
+      "new_room": "BC5012"
+    },
+    {
+      "sl_number": 75,
+      "school": "SETS",
+      "course_id": "CSE201",
+      "section": "3",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "BC10015",
+      "new_room": "BC6009"
+    },
+    {
+      "sl_number": 76,
+      "school": "SETS",
+      "course_id": "CSE203",
+      "section": "3",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "MK5010",
+      "new_room": "C3003"
+    },
+    {
+      "sl_number": 77,
+      "school": "SETS",
+      "course_id": "CSE203",
+      "section": "8",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "BC4013",
+      "new_room": "BC6009"
+    },
+    {
+      "sl_number": 78,
+      "school": "SETS",
+      "course_id": "CSE204",
+      "section": "4",
+      "day": "MW",
+      "time": "08:00-09:30",
+      "previous_room": "C4004",
+      "new_room": "MK4005"
+    },
+    {
+      "sl_number": 79,
+      "school": "SETS",
+      "course_id": "CSE210",
+      "section": "1",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC7025",
+      "new_room": "BC5013"
+    },
+    {
+      "sl_number": 80,
+      "school": "SETS",
+      "course_id": "CSE210",
+      "section": "2",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "C5005",
+      "new_room": "MK4004"
+    },
+    {
+      "sl_number": 81,
+      "school": "SETS",
+      "course_id": "CSE210",
+      "section": "3",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "C2004",
+      "new_room": "BC8015"
+    },
+    {
+      "sl_number": 82,
+      "school": "SETS",
+      "course_id": "CSE211",
+      "section": "5",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC10014",
+      "new_room": "BC10017"
+    },
+    {
+      "sl_number": 83,
+      "school": "SETS",
+      "course_id": "CSE216",
+      "section": "6",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "BC9016",
+      "new_room": "BC6007"
+    },
+    {
+      "sl_number": 84,
+      "school": "SETS",
+      "course_id": "CSE303",
+      "section": "1",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "BC8013",
+      "new_room": "BC6009"
+    },
+    {
+      "sl_number": 85,
+      "school": "SETS",
+      "course_id": "CSE307",
+      "section": "3",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "C5004",
+      "new_room": "BC9014"
+    },
+    {
+      "sl_number": 86,
+      "school": "SETS",
+      "course_id": "CSE310",
+      "section": "2",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "C5005",
+      "new_room": "BC10014"
+    },
+    {
+      "sl_number": 87,
+      "school": "SETS",
+      "course_id": "CSE313",
+      "section": "4",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "C2005",
+      "new_room": "BC6008"
+    },
+    {
+      "sl_number": 88,
+      "school": "SETS",
+      "course_id": "CSE317",
+      "section": "4",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "C5005",
+      "new_room": "BC6007"
+    },
+    {
+      "sl_number": 89,
+      "school": "SETS",
+      "course_id": "EEE221",
+      "section": "1",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "BC4012",
+      "new_room": "BC6007"
+    },
+    {
+      "sl_number": 90,
+      "school": "SETS",
+      "course_id": "EEE422",
+      "section": "1",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "C6002",
+      "new_room": "BC4010"
+    },
+    {
+      "sl_number": 91,
+      "school": "SETS",
+      "course_id": "EEE436",
+      "section": "1",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "MK5006",
+      "new_room": "C4003"
+    },
+    {
+      "sl_number": 92,
+      "school": "SETS",
+      "course_id": "MAT101",
+      "section": "17",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC6007",
+      "new_room": "C2004"
+    },
+    {
+      "sl_number": 93,
+      "school": "SETS",
+      "course_id": "MAT131",
+      "section": "1",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "C2002",
+      "new_room": "MK5008"
+    },
+    {
+      "sl_number": 94,
+      "school": "SETS",
+      "course_id": "MAT211",
+      "section": "11",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "BC10018",
+      "new_room": "BC5014"
+    },
+    {
+      "sl_number": 95,
+      "school": "SETS",
+      "course_id": "MAT211",
+      "section": "21",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "BC8015",
+      "new_room": "BC6012"
+    },
+    {
+      "sl_number": 96,
+      "school": "SETS",
+      "course_id": "MAT230",
+      "section": "2",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "BC9017",
+      "new_room": "BC6008"
+    },
+    {
+      "sl_number": 97,
+      "school": "SETS",
+      "course_id": "PHY101",
+      "section": "4",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC3010",
+      "new_room": "BC7016"
+    },
+    {
+      "sl_number": 98,
+      "school": "SETS",
+      "course_id": "PHY102",
+      "section": "3",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "BC10015",
+      "new_room": "BC4014"
+    },
+    {
+      "sl_number": 99,
+      "school": "SETS",
+      "course_id": "PHY102",
+      "section": "8",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC3011",
+      "new_room": "BC6009"
+    },
+    {
+      "sl_number": 100,
+      "school": "SLASS",
+      "course_id": "AAT101",
+      "section": "1",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC8011",
+      "new_room": "C3007"
+    },
+    {
+      "sl_number": 101,
+      "school": "SLASS",
+      "course_id": "AAT101",
+      "section": "2",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "MK5008",
+      "new_room": "C5004"
+    },
+    {
+      "sl_number": 102,
+      "school": "SLASS",
+      "course_id": "AAT101",
+      "section": "3",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC3002",
+      "new_room": "C5004"
+    },
+    {
+      "sl_number": 103,
+      "school": "SLASS",
+      "course_id": "ANT101",
+      "section": "4",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "BC9014",
+      "new_room": "BC8013"
+    },
+    {
+      "sl_number": 104,
+      "school": "SLASS",
+      "course_id": "ANT101",
+      "section": "13",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "MK4004",
+      "new_room": "C5005"
+    },
+    {
+      "sl_number": 105,
+      "school": "SLASS",
+      "course_id": "ANT101",
+      "section": "12",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "BC9014",
+      "new_room": "BC9015"
+    },
+    {
+      "sl_number": 106,
+      "school": "SLASS",
+      "course_id": "ANT101",
+      "section": "11",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "BC4010",
+      "new_room": "BC10017"
+    },
+    {
+      "sl_number": 107,
+      "school": "SLASS",
+      "course_id": "BDS109",
+      "section": "15",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "BC9016",
+      "new_room": "BC8011"
+    },
+    {
+      "sl_number": 108,
+      "school": "SLASS",
+      "course_id": "BPH101",
+      "section": "1",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC5002",
+      "new_room": "BC8014"
+    },
+    {
+      "sl_number": 109,
+      "school": "SLASS",
+      "course_id": "CHI101",
+      "section": "1",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "MK4007",
+      "new_room": "C4006"
+    },
+    {
+      "sl_number": 110,
+      "school": "SLASS",
+      "course_id": "CMN201",
+      "section": "11",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "BC9017",
+      "new_room": "BC9015"
+    },
+    {
+      "sl_number": 111,
+      "school": "SLASS",
+      "course_id": "CMN201",
+      "section": "10",
+      "day": "MW",
+      "time": "09:40-11:10",
+      "previous_room": "BC7026",
+      "new_room": "C2003"
+    },
+    {
+      "sl_number": 112,
+      "school": "SLASS",
+      "course_id": "CMN201",
+      "section": "8",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "C6005",
+      "new_room": "C4006"
+    },
+    {
+      "sl_number": 113,
+      "school": "SLASS",
+      "course_id": "CMN201",
+      "section": "7",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "BC10015",
+      "new_room": "BC4012"
+    },
+    {
+      "sl_number": 114,
+      "school": "SLASS",
+      "course_id": "CMN208",
+      "section": "2",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "C2007",
+      "new_room": "BC9016"
+    },
+    {
+      "sl_number": 115,
+      "school": "SLASS",
+      "course_id": "ELT411",
+      "section": "1",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "BC4010",
+      "new_room": "BC7026"
+    },
+    {
+      "sl_number": 116,
+      "school": "SLASS",
+      "course_id": "ELT414",
+      "section": "1",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC4012",
+      "new_room": "BC7016"
+    },
+    {
+      "sl_number": 117,
+      "school": "SLASS",
+      "course_id": "ENG101",
+      "section": "13",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC7025",
+      "new_room": "BC9015"
+    },
+    {
+      "sl_number": 118,
+      "school": "SLASS",
+      "course_id": "ENG101",
+      "section": "1",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "C3005",
+      "new_room": "BC8012"
+    },
+    {
+      "sl_number": 119,
+      "school": "SLASS",
+      "course_id": "ENG101",
+      "section": "6",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "BC5012",
+      "new_room": "BC7016"
+    },
+    {
+      "sl_number": 120,
+      "school": "SLASS",
+      "course_id": "ENG102",
+      "section": "3",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "C5005",
+      "new_room": "MK4004"
+    },
+    {
+      "sl_number": 121,
+      "school": "SLASS",
+      "course_id": "ENG102",
+      "section": "13",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "BC5013",
+      "new_room": "BC9017"
+    },
+    {
+      "sl_number": 122,
+      "school": "SLASS",
+      "course_id": "ENG102",
+      "section": "22",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "C4005",
+      "new_room": "BC8015"
+    },
+    {
+      "sl_number": 123,
+      "school": "SLASS",
+      "course_id": "ENG102",
+      "section": "23",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "C5005",
+      "new_room": "MK5004"
+    },
+    {
+      "sl_number": 124,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "14",
+      "day": "MW",
+      "time": "09:40-11:10",
+      "previous_room": "BC4011",
+      "new_room": "MK5004"
+    },
+    {
+      "sl_number": 125,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "7",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "C4007",
+      "new_room": "MK5004"
+    },
+    {
+      "sl_number": 126,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "11",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC4013",
+      "new_room": "BC8011"
+    },
+    {
+      "sl_number": 127,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "16",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC4014",
+      "new_room": "BC3002"
+    },
+    {
+      "sl_number": 128,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "21",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "C2003",
+      "new_room": "BC9015"
+    },
+    {
+      "sl_number": 129,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "22",
+      "day": "AR",
+      "time": "13:00-14:30",
+      "previous_room": "C4005",
+      "new_room": "MK5009"
+    },
+    {
+      "sl_number": 130,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "18",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC4011",
+      "new_room": "BC7025"
+    },
+    {
+      "sl_number": 131,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "19",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC4012",
+      "new_room": "BC9017"
+    },
+    {
+      "sl_number": 132,
+      "school": "SLASS",
+      "course_id": "ENG105",
+      "section": "20",
+      "day": "AR",
+      "time": "16:20-17:50",
+      "previous_room": "C5004",
+      "new_room": "MK4004"
+    },
+    {
+      "sl_number": 133,
+      "school": "SLASS",
+      "course_id": "ENG316",
+      "section": "1",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "MK5004",
+      "new_room": "C3002"
+    },
+    {
+      "sl_number": 134,
+      "school": "SLASS",
+      "course_id": "ENG401",
+      "section": "1",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC8011",
+      "new_room": "BC4012"
+    },
+    {
+      "sl_number": 135,
+      "school": "SLASS",
+      "course_id": "ENG405",
+      "section": "1",
+      "day": "MW",
+      "time": "09:40-11:10",
+      "previous_room": "C5003",
+      "new_room": "BC7026"
+    },
+    {
+      "sl_number": 136,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "3",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "BC4014",
+      "new_room": "BC5002"
+    },
+    {
+      "sl_number": 137,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "5",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "C5005",
+      "new_room": "BC10015"
+    },
+    {
+      "sl_number": 138,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "8",
+      "day": "ST",
+      "time": "14:40-16:10",
+      "previous_room": "BC9015",
+      "new_room": "BC10015"
+    },
+    {
+      "sl_number": 139,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "10",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "BC9016",
+      "new_room": "C2007"
+    },
+    {
+      "sl_number": 140,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "6",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "BC8013",
+      "new_room": "BC9014"
+    },
+    {
+      "sl_number": 141,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "9",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC8013",
+      "new_room": "BC7025"
+    },
+    {
+      "sl_number": 142,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "14",
+      "day": "MW",
+      "time": "13:00-14:30",
+      "previous_room": "BC8014",
+      "new_room": "BC8011"
+    },
+    {
+      "sl_number": 143,
+      "school": "SLASS",
+      "course_id": "GSG101",
+      "section": "11",
+      "day": "MW",
+      "time": "16:20-17:50",
+      "previous_room": "BC7016",
+      "new_room": "C2002"
+    },
+    {
+      "sl_number": 144,
+      "school": "SLASS",
+      "course_id": "GSG201",
+      "section": "1",
+      "day": "ST",
+      "time": "09:40-11:10",
+      "previous_room": "C5007",
+      "new_room": "BC9016"
+    },
+    {
+      "sl_number": 145,
+      "school": "SLASS",
+      "course_id": "GSG261",
+      "section": "1",
+      "day": "MW",
+      "time": "11:20-12:50",
+      "previous_room": "C2007",
+      "new_room": "BC9016"
+    },
+    {
+      "sl_number": 146,
+      "school": "SLASS",
+      "course_id": "GSG304",
+      "section": "1",
+      "day": "ST",
+      "time": "16:20-17:50",
+      "previous_room": "MK4005",
+      "new_room": "C3002"
+    },
+    {
+      "sl_number": 147,
+      "school": "SLASS",
+      "course_id": "GSG306",
+      "section": "1",
+      "day": "MW",
+      "time": "09:40-11:10",
+      "previous_room": "C4006",
+      "new_room": "C2005"
+    },
+    {
+      "sl_number": 148,
+      "school": "SLASS",
+      "course_id": "GSG320",
+      "section": "1",
+      "day": "AR",
+      "time": "14:40-16:10",
+      "previous_room": "BC8014",
+      "new_room": "C2007"
+    },
+    {
+      "sl_number": 149,
+      "school": "SLASS",
+      "course_id": "GSG380",
+      "section": "1",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "C2006",
+      "new_room": "BC4011"
+    },
+    {
+      "sl_number": 150,
+      "school": "SLASS",
+      "course_id": "GSG403",
+      "section": "1",
+      "day": "MW",
+      "time": "14:40-16:10",
+      "previous_room": "C4006",
+      "new_room": "C5005"
+    },
+    {
+      "sl_number": 151,
+      "school": "SLASS",
+      "course_id": "JPN101",
+      "section": "1",
+      "day": "ST",
+      "time": "11:20-12:50",
+      "previous_room": "C4007",
+      "new_room": "C2003"
+    },
+    {
+      "sl_number": 152,
+      "school": "SLASS",
+      "course_id": "SOC101",
+      "section": "1",
+      "day": "ST",
+      "time": "13:00-14:30",
+      "previous_room": "BC9015",
+      "new_room": "BC9017"
+    },
+    {
+      "sl_number": 153,
+      "school": "SPPH",
+      "course_id": "HEA101",
+      "section": "15",
+      "day": "ST",
+      "time": "08:00-09:30",
+      "previous_room": "BC10014",
+      "new_room": "BC10017"
+    }
+  ]
+}

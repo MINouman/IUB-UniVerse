@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 456: Business Process Reengineering - A 3-credit technical elective course focusing on software development methodologies and practices. Prerequisites: CSE 451,CSE 451L.",
+    "metadata": {
+      "course_code": "CSE 456",
+      "course_name": "Business Process Reengineering",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 01: Software Engineering",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 451",
+        "CSE 451L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "software_engineering"
+    }
+  }
+}

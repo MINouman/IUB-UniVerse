@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 424: Neural Networks - A 3-credit technical elective course exploring AI, machine learning, and intelligent algorithms. Prerequisites: CSE 425,CSE 417.",
+    "metadata": {
+      "course_code": "CSE 424",
+      "course_name": "Neural Networks",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 05: Intelligent Systems",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 425",
+        "CSE 417"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "ai_ml"
+    }
+  }
+}

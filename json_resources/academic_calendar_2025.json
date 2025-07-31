@@ -1,0 +1,324 @@
+{
+  "year": 2025,
+  "university": "Academic Calendar",
+  "months": {
+    "January": {
+      "events": [
+        {
+          "date": "4-9",
+          "description": "Final exams, Autumn 2024",
+          "type": "exam",
+          "month": "January"
+        },
+        {
+          "date": "20",
+          "description": "Grades due at Office of the Controller of Examinations & Official end of Autumn 2024",
+          "type": "exam",
+          "month": "January"
+        },
+        {
+          "date": "23-27",
+          "description": "Course registration for Spring 2025",
+          "type": "registration",
+          "month": "January"
+        },
+        {
+          "date": "28",
+          "description": "Classes commence",
+          "type": "academic",
+          "month": "January"
+        },
+        {
+          "date": "30",
+          "description": "Due date for payment of Registration Fees, Spring 2025",
+          "type": "registration",
+          "month": "January"
+        }
+      ]
+    },
+    "February": {
+      "events": [
+        {
+          "date": "15",
+          "description": "Shab-E-Barat",
+          "type": "holiday",
+          "month": "February"
+        },
+        {
+          "date": "21",
+          "description": "Shaheed Day",
+          "type": "national_holiday",
+          "month": "February"
+        }
+      ]
+    },
+    "March": {
+      "events": [
+        {
+          "date": "4-17",
+          "description": "Mid-term exams",
+          "type": "exam",
+          "month": "March"
+        },
+        {
+          "date": "26",
+          "description": "Independence & National Day",
+          "type": "national_holiday",
+          "month": "March"
+        },
+        {
+          "date": "28",
+          "description": "Laylatul Qadr",
+          "type": "academic",
+          "month": "March"
+        },
+        {
+          "date": "28 Mar -3 Apr",
+          "description": "Eid-ul-Fitr",
+          "type": "holiday",
+          "month": "March"
+        }
+      ]
+    },
+    "April": {
+      "events": [
+        {
+          "date": "6",
+          "description": "Last date of withdrawal from courses",
+          "type": "academic",
+          "month": "April"
+        },
+        {
+          "date": "14",
+          "description": "Bangla New Year",
+          "type": "national_holiday",
+          "month": "April"
+        },
+        {
+          "date": "20-22",
+          "description": "Faculty Evaluation",
+          "type": "academic",
+          "month": "April"
+        },
+        {
+          "date": "28",
+          "description": "Classes end",
+          "type": "academic",
+          "month": "April"
+        },
+        {
+          "date": "29 Apr - 06 May",
+          "description": "Final exams",
+          "type": "exam",
+          "month": "April"
+        }
+      ]
+    },
+    "May": {
+      "events": [
+        {
+          "date": "1",
+          "description": "May Day",
+          "type": "national_holiday",
+          "month": "May"
+        },
+        {
+          "date": "11",
+          "description": "Budhha Purnima",
+          "type": "holiday",
+          "month": "May"
+        },
+        {
+          "date": "14",
+          "description": "Grades due at Office of the Controller of Examinations & Official end of Spring 2025",
+          "type": "exam",
+          "month": "May"
+        },
+        {
+          "date": "20-22",
+          "description": "Course registration for Summer 2025",
+          "type": "registration",
+          "month": "May"
+        },
+        {
+          "date": "24",
+          "description": "Classes commence",
+          "type": "academic",
+          "month": "May"
+        },
+        {
+          "date": "25",
+          "description": "Due date for payment of Registration Fees, Summer 2025",
+          "type": "registration",
+          "month": "May"
+        }
+      ]
+    },
+    "June": {
+      "events": [
+        {
+          "date": "5-10",
+          "description": "Eid-Ul-Azha",
+          "type": "holiday",
+          "month": "June"
+        },
+        {
+          "date": "5-17",
+          "description": "Mid-term exams",
+          "type": "exam",
+          "month": "June"
+        },
+        {
+          "date": "6",
+          "description": "Ashura",
+          "type": "holiday",
+          "month": "June"
+        },
+        {
+          "date": "31",
+          "description": "Last date of withdrawal from courses",
+          "type": "academic",
+          "month": "June"
+        }
+      ]
+    },
+    "July": {
+      "events": [
+        {
+          "date": "16",
+          "description": "Janmastami",
+          "type": "holiday",
+          "month": "July"
+        },
+        {
+          "date": "17-19",
+          "description": "Faculty Evaluation",
+          "type": "academic",
+          "month": "July"
+        },
+        {
+          "date": "21",
+          "description": "Classes end",
+          "type": "academic",
+          "month": "July"
+        },
+        {
+          "date": "23-28",
+          "description": "Final exams",
+          "type": "exam",
+          "month": "July"
+        }
+      ]
+    },
+    "August": {
+      "events": [
+        {
+          "date": "4",
+          "description": "Grades due at Office of the Controller of Examinations & Official end of Summer 2025",
+          "type": "exam",
+          "month": "August"
+        },
+        {
+          "date": "5",
+          "description": "Eid-e-Milad un-Nabi",
+          "type": "holiday",
+          "month": "August"
+        },
+        {
+          "date": "14-16",
+          "description": "Course registration for Autumn 2025 semester",
+          "type": "registration",
+          "month": "August"
+        },
+        {
+          "date": "20",
+          "description": "Classes commence",
+          "type": "academic",
+          "month": "August"
+        },
+        {
+          "date": "21",
+          "description": "Due date for payment of Registration Fees, Autumn 2025",
+          "type": "registration",
+          "month": "August"
+        }
+      ]
+    },
+    "September": {
+      "events": [
+        {
+          "date": "1-2",
+          "description": "Durga Puja",
+          "type": "holiday",
+          "month": "September"
+        }
+      ]
+    },
+    "October": {
+      "events": [
+        {
+          "date": "25 Oct - 6 Nov",
+          "description": "Mid-term exams",
+          "type": "exam",
+          "month": "October"
+        },
+        {
+          "date": "30",
+          "description": "Last date of application for graduation for 26th Convocation",
+          "type": "academic",
+          "month": "October"
+        }
+      ]
+    },
+    "November": {
+      "events": [
+        {
+          "date": "20",
+          "description": "Last date of withdrawal from courses",
+          "type": "academic",
+          "month": "November"
+        },
+        {
+          "date": "11",
+          "description": "Classes end",
+          "type": "academic",
+          "month": "November"
+        },
+        {
+          "date": "13-18",
+          "description": "Final exams",
+          "type": "exam",
+          "month": "November"
+        },
+        {
+          "date": "16",
+          "description": "Victory day",
+          "type": "national_holiday",
+          "month": "November"
+        },
+        {
+          "date": "24",
+          "description": "Grades due at Office of the Controller of Examinations & Official end of Autumn 2025",
+          "type": "exam",
+          "month": "November"
+        }
+      ]
+    },
+    "December": {
+      "events": [
+        {
+          "date": "25",
+          "description": "Christmas day",
+          "type": "national_holiday",
+          "month": "December"
+        },
+        {
+          "date": "26",
+          "description": "1 Jan'26 University recess",
+          "type": "academic",
+          "month": "December"
+        }
+      ]
+    }
+  }
+}

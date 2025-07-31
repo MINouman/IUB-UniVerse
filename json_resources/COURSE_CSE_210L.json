@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 210L: Labwork based on CSE 210 - A 1-credit core course. Prerequisites: CSE 104,CSE 104L. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 210L",
+      "course_name": "Labwork based on CSE 210",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 1,
+      "prerequisites": [
+        "CSE 104",
+        "CSE 104L"
+      ],
+      "department": "CSE",
+      "level": "200",
+      "area": "core"
+    }
+  }
+}

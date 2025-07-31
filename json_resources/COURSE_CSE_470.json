@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 470: Introduction to Graphical Models - A 3-credit technical elective course exploring AI, machine learning, and intelligent algorithms. Prerequisites: CSE 421.",
+    "metadata": {
+      "course_code": "CSE 470",
+      "course_name": "Introduction to Graphical Models",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 05: Intelligent Systems",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 421"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "ai_ml"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 418: E-commerce and Web Database - A 3-credit technical elective course covering database systems and information processing. Prerequisites: CSE 309.",
+    "metadata": {
+      "course_code": "CSE 418",
+      "course_name": "E-commerce and Web Database",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 06: Information Systems & Processing (Group A)",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 309"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "information_systems"
+    }
+  }
+}

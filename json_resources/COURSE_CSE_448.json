@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 448: VLSI Design & Testing - A 3-credit technical elective course focusing on digital electronics and system design. Prerequisites: CSE 310,CSE 310L.",
+    "metadata": {
+      "course_code": "CSE 448",
+      "course_name": "VLSI Design & Testing",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 03: Digital System Design",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 310",
+        "CSE 310L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "digital_systems"
+    }
+  }
+}

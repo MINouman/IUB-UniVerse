@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 104L: Electrical Circuit Analysis Lab - A 1-credit core course. Prerequisites: PHY 101L. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 104L",
+      "course_name": "Electrical Circuit Analysis Lab",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 1,
+      "prerequisites": [
+        "PHY 101L"
+      ],
+      "department": "CSE",
+      "level": "100",
+      "area": "core"
+    }
+  }
+}

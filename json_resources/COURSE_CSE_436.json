@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 436: Multimedia Systems - A 3-credit technical elective course covering database systems and information processing. Prerequisites: CSE 438.",
+    "metadata": {
+      "course_code": "CSE 436",
+      "course_name": "Multimedia Systems",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 06: Information Systems & Processing (Group A)",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 438"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "information_systems"
+    }
+  }
+}

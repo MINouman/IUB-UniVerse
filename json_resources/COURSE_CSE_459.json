@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 459: Software Architecture and Component-Based Design - A 3-credit technical elective course focusing on software development methodologies and practices. Prerequisites: CSE 451,CSE 451L.",
+    "metadata": {
+      "course_code": "CSE 459",
+      "course_name": "Software Architecture and Component-Based Design",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 01: Software Engineering",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 451",
+        "CSE 451L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "software_engineering"
+    }
+  }
+}

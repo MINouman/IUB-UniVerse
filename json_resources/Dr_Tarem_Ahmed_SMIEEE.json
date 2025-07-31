@@ -1,0 +1,44 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/tarem",
+  "faculty_name": "Dr. Tarem Ahmed, SMIEEE",
+  "designation": "Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2013",
+      "degree": "PhD in Computer Science",
+      "field": "Computer Science",
+      "institution": "International Islamic University Malaysia, Kuala Lumpur, Malaysia"
+    },
+    {
+      "year": "2006",
+      "degree": "PhD Research Proposal Defense in Electrical and Computer Engineering",
+      "field": "Defense in Electrical and Computer Engineering",
+      "institution": "McGill University, Montreal, QC, Canada"
+    },
+    {
+      "year": "2005",
+      "degree": "PhD Qualifying Examination in Electrical and Computer Engineering",
+      "field": "Qualifying Examination in Electrical and Computer Engineering",
+      "institution": "McGill University, Montreal, QC, Canada"
+    },
+    {
+      "year": "2000",
+      "degree": "Master's in Electrical Engineering",
+      "field": "Electrical Engineering",
+      "institution": "University of Pennsylvania, Philadelphia, PA, USA"
+    },
+    {
+      "year": "1999",
+      "degree": "Bachelor's in Physics and Economics (Double Major), Summa Cum Laude",
+      "field": "Physics and Economics",
+      "institution": "Middlebury College, Middlebury, VT, USA"
+    }
+  ],
+  "area_of_research": "Computer Networks, Machine Learning, Image Processing, Internet of Things",
+  "email": "tarem@iub.edu.bd",
+  "room_number": "C 7011",
+  "total_citation": "934",
+  "h_Index": "12",
+  "i_index": "14"
+}

@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 216: Microprocessor, Interfacing and Assembly Language - A 3-credit core course. Prerequisites: CSE 204,CSE 204L. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 216",
+      "course_name": "Microprocessor, Interfacing and Assembly Language",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 204",
+        "CSE 204L"
+      ],
+      "department": "CSE",
+      "level": "200",
+      "area": "core"
+    }
+  }
+}

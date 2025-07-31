@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 406: Cryptography and Network Security - A 3-credit technical elective course covering computer networks and communication systems. Prerequisites: CSE 316,CSE 316L.",
+    "metadata": {
+      "course_code": "CSE 406",
+      "course_name": "Cryptography and Network Security",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 02: Data Communication & Networking",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 316",
+        "CSE 316L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "networking"
+    }
+  }
+}

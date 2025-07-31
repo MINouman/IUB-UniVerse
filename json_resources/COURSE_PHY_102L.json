@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "PHY 102L: University Physics-II Lab - A 1-credit foundation course providing physics background for engineering applications. Prerequisites: PHY 101L. Part of Foundation curriculum (8 credits total).",
+    "metadata": {
+      "course_code": "PHY 102L",
+      "course_name": "University Physics-II Lab",
+      "course_type": "Foundation",
+      "course_subtype": "Natural Sciences (Credits:8)",
+      "credits": 1,
+      "prerequisites": [
+        "PHY 101L"
+      ],
+      "department": "PHY",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

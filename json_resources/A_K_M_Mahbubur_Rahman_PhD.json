@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman",
+  "faculty_name": "A K M Mahbubur Rahman, PhD",
+  "designation": "Associate Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2013",
+      "degree": "PhD in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Memphis, USA"
+    },
+    {
+      "year": "2011",
+      "degree": "M.Sc. in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Memphis, USA"
+    },
+    {
+      "year": "2006",
+      "degree": "B.Sc. in Computer Science and Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "Jahangirnagar University, Bangladesh"
+    }
+  ],
+  "area_of_research": "Computer Vision, Machine Learning, Deep Learning, Image Processing",
+  "email": "akmmrahman@iub.edu.bd",
+  "room_number": "C 7008",
+  "total_citation": "525",
+  "h_Index": "11",
+  "i_index": "15"
+}

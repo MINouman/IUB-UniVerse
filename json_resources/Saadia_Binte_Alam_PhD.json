@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/saadiabinte",
+  "faculty_name": "Saadia Binte Alam, PhD",
+  "designation": "Associate Professor and Head, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2017",
+      "degree": "Doctor of Philosophy (Ph.D.)",
+      "field": "Electrical Engineering and Computer Science",
+      "institution": "University of Hyogo, Japan"
+    },
+    {
+      "year": "2005",
+      "degree": "Master of Science (M.S.)",
+      "field": "Engineering Physics/Applied Physics",
+      "institution": "University of Dhaka, Bangladesh"
+    },
+    {
+      "year": "2004",
+      "degree": "Master of Science (M.S.)",
+      "field": "Engineering Physics/Applied Physics",
+      "institution": "University of Dhaka, Bangladesh"
+    }
+  ],
+  "area_of_research": "Medical image and signal processing and data science. My research focuses on disease detection through machine learning, deep learning, etc.",
+  "email": "saadiabinte@iub.edu.bd",
+  "room_number": "BC 5007D",
+  "total_citation": 118,
+  "h_index": 6,
+  "i_index": 4
+}

@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 471: Introduction to High Performance Computing (GPU programming) - A 3-credit technical elective course covering database systems and information processing. Prerequisites: CSE 317,CSE 317L.",
+    "metadata": {
+      "course_code": "CSE 471",
+      "course_name": "Introduction to High Performance Computing (GPU programming)",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 06: Information Systems & Processing (Group B)",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "information_systems"
+    }
+  }
+}

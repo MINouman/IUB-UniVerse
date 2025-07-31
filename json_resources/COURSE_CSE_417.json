@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 417: Data Mining and Warehouse - A 3-credit technical elective course covering data analysis, mining, and statistical methods. Prerequisites: CSE 317,CSE 317L.",
+    "metadata": {
+      "course_code": "CSE 417",
+      "course_name": "Data Mining and Warehouse",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 04: Data Science",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "data_science"
+    }
+  }
+}

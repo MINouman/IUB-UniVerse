@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 490: Special Topics in Computer Science & Engineering - A 3-credit technical elective course covering practical IT skills and technologies.",
+    "metadata": {
+      "course_code": "CSE 490",
+      "course_name": "Special Topics in Computer Science & Engineering",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 10: Information Technology",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "CSE",
+      "level": "400",
+      "area": "it"
+    }
+  }
+}

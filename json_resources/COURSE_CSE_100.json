@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 100: Computer Programming | - A 3-credit foundation course building fundamental programming and computer literacy. Part of Foundation curriculum (4 credits total).",
+    "metadata": {
+      "course_code": "CSE 100",
+      "course_name": "Computer Programming |",
+      "course_type": "Foundation",
+      "course_subtype": "Computer Skills (Credits:4)",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "CSE",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

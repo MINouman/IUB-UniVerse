@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "BPH 101: Bangladesh Political History - A 3-credit foundation course focusing on Bangladeshi culture, literature, and history. Part of Foundation curriculum (3 credits total).",
+    "metadata": {
+      "course_code": "BPH 101",
+      "course_name": "Bangladesh Political History",
+      "course_type": "Foundation",
+      "course_subtype": "Humanities - Bangladesh Related  (Credits:3)  [Students must take any one of BDS109, BPH101, BLA101, or NCH101, and one other course from the list to fulfill the requirements of taking (6) six credits.]",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "BPH",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

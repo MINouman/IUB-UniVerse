@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 466: Human Computer Interaction - A 3-credit technical elective course covering practical IT skills and technologies. Prerequisites: CSE 213,CSE 213L.",
+    "metadata": {
+      "course_code": "CSE 466",
+      "course_name": "Human Computer Interaction",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 10: Information Technology",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 213",
+        "CSE 213L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "it"
+    }
+  }
+}

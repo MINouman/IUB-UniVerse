@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 427: Computer Simulation and Modeling - A 3-credit technical elective course applying computational methods to scientific problems. Prerequisites: CSE 317,CSE 317L.",
+    "metadata": {
+      "course_code": "CSE 427",
+      "course_name": "Computer Simulation and Modeling",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 08: Scientific Computing",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "scientific_computing"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "MAT 251: Multivariable Calculus - A 3-credit core course. Prerequisites: MAT 104,MAT 251. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "MAT 251",
+      "course_name": "Multivariable Calculus",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 3,
+      "prerequisites": [
+        "MAT 104",
+        "MAT 251"
+      ],
+      "department": "MAT",
+      "level": "200",
+      "area": "core"
+    }
+  }
+}

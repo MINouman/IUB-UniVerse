@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 301: Finite Automata and Computability - A 3-credit technical elective course exploring theoretical computer science concepts. Prerequisites: CSE 211,CSE 211L.",
+    "metadata": {
+      "course_code": "CSE 301",
+      "course_name": "Finite Automata and Computability",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 07: CS Theory",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 211",
+        "CSE 211L"
+      ],
+      "department": "CSE",
+      "level": "300",
+      "area": "theory"
+    }
+  }
+}

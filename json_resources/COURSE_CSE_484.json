@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 484: Introduction to Complex Network Analysis - A 3-credit technical elective course exploring theoretical computer science concepts. Prerequisites: CSE 424.",
+    "metadata": {
+      "course_code": "CSE 484",
+      "course_name": "Introduction to Complex Network Analysis",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 07: CS Theory",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 424"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "theory"
+    }
+  }
+}

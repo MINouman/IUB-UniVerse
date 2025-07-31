@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "SOC 202: Social Psychology - A 3-credit foundation course exploring social, economic, and anthropological perspectives. Part of Foundation curriculum (6 credits total).",
+    "metadata": {
+      "course_code": "SOC 202",
+      "course_name": "Social Psychology",
+      "course_type": "Foundation",
+      "course_subtype": "Social Sciences (Credits:6)",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "SOC",
+      "level": "200",
+      "area": "foundation"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 432: Introduction to Data Science - A 3-credit technical elective course covering practical IT skills and technologies. Prerequisites: CSE 317,CSE 317L,CSE 303,CSE 303L.",
+    "metadata": {
+      "course_code": "CSE 432",
+      "course_name": "Introduction to Data Science",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 10: Information Technology",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L",
+        "CSE 303",
+        "CSE 303L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "it"
+    }
+  }
+}

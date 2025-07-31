@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 421: Machine learning - A 3-credit technical elective course applying computational methods to scientific problems. Prerequisites: CSE 425.",
+    "metadata": {
+      "course_code": "CSE 421",
+      "course_name": "Machine learning",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 08: Scientific Computing",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 425"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "scientific_computing"
+    }
+  }
+}

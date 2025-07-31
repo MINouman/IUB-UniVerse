@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "GED 107: Technology, Environment and Ethics - A foundation course exploring social, economic, and anthropological perspectives. Part of Foundation curriculum (6 credits total).",
+    "metadata": {
+      "course_code": "GED 107",
+      "course_name": "Technology, Environment and Ethics",
+      "course_type": "Foundation",
+      "course_subtype": "Social Sciences (Credits:6)",
+      "credits": null,
+      "prerequisites": [],
+      "department": "GED",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 483: Introduction to Cryptography - A 3-credit technical elective course exploring theoretical computer science concepts. Prerequisites: CSE 211,CSE 211L,CSE 316,CSE 316L.",
+    "metadata": {
+      "course_code": "CSE 483",
+      "course_name": "Introduction to Cryptography",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 07: CS Theory",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 211",
+        "CSE 211L",
+        "CSE 316",
+        "CSE 316L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "theory"
+    }
+  }
+}

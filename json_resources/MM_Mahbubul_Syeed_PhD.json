@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/mahbubul.syeed",
+  "faculty_name": "MM Mahbubul Syeed, PhD",
+  "designation": "Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2015",
+      "degree": "PhD in Software Engineering",
+      "field": "Software Engineering",
+      "institution": "Tampere University of Technology, Finland"
+    },
+    {
+      "year": "2012",
+      "degree": "M.Sc. in MSc in Software Engineering",
+      "field": "Software Engineering",
+      "institution": "Tampere University of Technology, Finland"
+    },
+    {
+      "year": "2002",
+      "degree": "BSc in Computer Science and IT",
+      "field": "Computer Science and IT",
+      "institution": "Islamic University of Technology (IUT), Bangladesh"
+    }
+  ],
+  "area_of_research": "SE, SE Project Management, OSS, IoT and Intelligent systems with ML, Tertiary Educational Process Management and OBE automation.",
+  "email": "mahbubul.syeed@iub.edu.bd",
+  "room_number": "C 7002",
+  "total_citation": "1014",
+  "h_Index": "18",
+  "i_index": "29"
+}

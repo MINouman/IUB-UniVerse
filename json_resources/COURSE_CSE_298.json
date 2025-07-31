@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 298: 2nd year Project - A 2-credit project course. Prerequisites: CSE 216,CSE 216L.",
+    "metadata": {
+      "course_code": "CSE 298",
+      "course_name": "2nd year Project",
+      "course_type": "Major Projects",
+      "course_subtype": "",
+      "credits": 2,
+      "prerequisites": [
+        "CSE 216",
+        "CSE 216L"
+      ],
+      "department": "CSE",
+      "level": "200",
+      "area": "projects"
+    }
+  }
+}

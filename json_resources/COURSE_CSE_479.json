@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 479: Introduction to Reinforcement Learning - A 3-credit technical elective course exploring AI, machine learning, and intelligent algorithms. Prerequisites: CSE 424.",
+    "metadata": {
+      "course_code": "CSE 479",
+      "course_name": "Introduction to Reinforcement Learning",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 05: Intelligent Systems",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 424"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "ai_ml"
+    }
+  }
+}

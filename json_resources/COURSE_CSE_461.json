@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 461: Advance topics for Application Development - A 3-credit technical elective course focusing on software development methodologies and practices. Prerequisites: CSE 309.",
+    "metadata": {
+      "course_code": "CSE 461",
+      "course_name": "Advance topics for Application Development",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 01: Software Engineering",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 309"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "software_engineering"
+    }
+  }
+}

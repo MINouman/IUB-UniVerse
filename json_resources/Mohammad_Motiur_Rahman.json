@@ -1,0 +1,50 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/motiur",
+  "faculty_name": "Mohammad Motiur Rahman",
+  "designation": "Lecturer A, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2017",
+      "degree": "Master's degree in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Washington , USA"
+    },
+    {
+      "year": "2015",
+      "degree": "French Language in French",
+      "field": "French Language",
+      "institution": "Alliance Francaise De Dhaka, Bangladesh"
+    },
+    {
+      "year": "2015",
+      "degree": "German Language in German",
+      "field": "German Language",
+      "institution": "Goethe Institut Bangladesh, Bangladesh"
+    },
+    {
+      "year": "2015",
+      "degree": "Master's degree in Computer Science",
+      "field": "Computer Science",
+      "institution": "Independent University, Bangladesh, Bangladesh"
+    },
+    {
+      "year": "2014",
+      "degree": "Bachelor's degree in Computer Science",
+      "field": "Computer Science",
+      "institution": "North South University, Bangladesh"
+    },
+    {
+      "year": "2007",
+      "degree": "Higher Secondary Certificate in Science",
+      "field": "Science",
+      "institution": "Maple Leaf International School, Bangladesh"
+    }
+  ],
+  "area_of_research": "Deep Learning, Reinforcement Learning",
+  "email": "motiur@iub.edu.bd",
+  "room_number": "BC 5010",
+  "total_citation": "66",
+  "h_Index": "4",
+  "i_index": "3"
+}

@@ -1,0 +1,44 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/faisal",
+  "faculty_name": "Mohammad Faisal Uddin, PhD",
+  "designation": "Associate Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2012",
+      "degree": "Ph.D. in Electrical & Computer Engineering",
+      "field": "Electrical & Computer Engineering",
+      "institution": "Concordia University, Montreal, QC, Canada"
+    },
+    {
+      "year": "2006",
+      "degree": "M.A.Sc. in Electrical & Computer Engineering",
+      "field": "Electrical & Computer Engineering",
+      "institution": "Concordia University, Montreal, QC, Canada"
+    },
+    {
+      "year": "2002",
+      "degree": "B.Sc. in Computer Science and Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "Islamic University of Technology (IUT), Bangladesh"
+    },
+    {
+      "year": "1998",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "field": "Science",
+      "institution": "Dhaka College, Dhaka, Bangladesh"
+    },
+    {
+      "year": "1996",
+      "degree": "Secondary School Certificate (SSC)",
+      "field": "Science",
+      "institution": "Govt. Laboratory High School, Dhaka, Bangladesh"
+    }
+  ],
+  "area_of_research": "Computer Networks (Wireless, Optical and Carrier Ethernet), Communication Network Design and Optimization, Network Resource allocation, Operations Research/Management, Game Theory, Cryptography",
+  "email": "faisal@iub.edu.bd",
+  "room_number": "BC 5001 F",
+  "total_citation": "1139",
+  "h_Index": "15",
+  "i_index": "20"
+}

@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/aminali",
+  "faculty_name": "Amin Ahsan Ali, PhD",
+  "designation": "Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2014",
+      "degree": "Ph.D. in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Memphis, USA"
+    },
+    {
+      "year": "2001",
+      "degree": "M.Sc. in Computer Science and Engineering",
+      "field": "Computer Science",
+      "institution": "University of Dhaka, Bangladesh"
+    },
+    {
+      "year": "2000",
+      "degree": "B.Sc. in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Dhaka, Bangladesh"
+    }
+  ],
+  "area_of_research": "Artificial Intelligence, Machine Learning and mHealth",
+  "email": "aminali@iub.edu.bd",
+  "room_number": "BC 5008",
+  "total_citation": "1861",
+  "h_Index": "20",
+  "i_index": "32"
+}

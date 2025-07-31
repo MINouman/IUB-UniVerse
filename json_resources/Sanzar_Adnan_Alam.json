@@ -1,0 +1,26 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/sanzar",
+  "faculty_name": "Sanzar Adnan Alam",
+  "designation": "Lecturer A, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2016",
+      "degree": "Masters in Cyber Security",
+      "field": "Cyber Security",
+      "institution": "Stevens Institute of Technology, USA"
+    },
+    {
+      "year": "2013",
+      "degree": "Bachelor in Computer Science & Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "Ahsanullah University of Science & Technology, Bangladesh"
+    }
+  ],
+  "area_of_research": "Mobile & Sensor Systems, Cryptography, Security & Privacy, Programming Languages and Software Engineering, Networking & Distributed Systems",
+  "email": "sanzar@iub.edu.bd",
+  "room_number": "BC 6005",
+  "total_citation": "1",
+  "h_Index": "1",
+  "i_index": "N/A"
+}

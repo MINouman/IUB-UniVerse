@@ -1,0 +1,26 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/mdasifbinkhaled",
+  "faculty_name": "Md Asif Bin Khaled",
+  "designation": "Lecturer A, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2018",
+      "degree": "MSc in Computer Science",
+      "field": "Computer Science",
+      "institution": "Independent University, Bangladesh, Bangladesh"
+    },
+    {
+      "year": "2015",
+      "degree": "BSc in Computer Science and Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "BRAC University, Bangladesh"
+    }
+  ],
+  "area_of_research": "Machine Learning, Computer Vision, Data Science",
+  "email": "mdasifbinkhaled@iub.edu.bd",
+  "room_number": "BC 5010D",
+  "total_citation": "28",
+  "h_Index": "3",
+  "i_index": "1"
+}

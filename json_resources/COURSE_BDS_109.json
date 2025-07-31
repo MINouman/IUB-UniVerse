@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "BDS 109: Bangladesh 1971 Through the Lenses - A 3-credit foundation course focusing on Bangladeshi culture, literature, and history. Part of Foundation curriculum (3 credits total).",
+    "metadata": {
+      "course_code": "BDS 109",
+      "course_name": "Bangladesh 1971 Through the Lenses",
+      "course_type": "Foundation",
+      "course_subtype": "Humanities - Bangladesh Related  (Credits:3)  [Students must take any one of BDS109, BPH101, BLA101, or NCH101, and one other course from the list to fulfill the requirements of taking (6) six credits.]",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "BDS",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

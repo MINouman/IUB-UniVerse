@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "PHY 102: University Physics-II - A 3-credit foundation course providing physics background for engineering applications. Prerequisites: PHY 101. Part of Foundation curriculum (8 credits total).",
+    "metadata": {
+      "course_code": "PHY 102",
+      "course_name": "University Physics-II",
+      "course_type": "Foundation",
+      "course_subtype": "Natural Sciences (Credits:8)",
+      "credits": 3,
+      "prerequisites": [
+        "PHY 101"
+      ],
+      "department": "PHY",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

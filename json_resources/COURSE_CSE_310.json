@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 310: Electronics II - A 3-credit core course. Prerequisites: CSE 210,CSE 210L. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 310",
+      "course_name": "Electronics II",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 210",
+        "CSE 210L"
+      ],
+      "department": "CSE",
+      "level": "300",
+      "area": "core"
+    }
+  }
+}

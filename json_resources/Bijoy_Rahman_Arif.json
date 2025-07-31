@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/bijoyarif",
+  "faculty_name": "Bijoy Rahman Arif",
+  "designation": "Lecturer A, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2015",
+      "degree": "M.S. in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Nebraska , USA"
+    },
+    {
+      "year": "2009",
+      "degree": "B.S. in Electronics and Telecommunication Engineering",
+      "field": "Electronics and Telecommunication Engineering",
+      "institution": "North South University, Bangladesh"
+    },
+    {
+      "year": "2004",
+      "degree": "Higher Secondary School of Certificate in Science Group",
+      "field": "Science",
+      "institution": "Dhaka College, Bangladesh"
+    }
+  ],
+  "area_of_research": "Artificial Intelligence focused on Compiler Construction, Automated Software Testing, Theory of Programming Languages",
+  "email": "bijoyarif@iub.edu.bd",
+  "room_number": "BC 5010",
+  "total_citation": "8",
+  "h_Index": "2",
+  "i_index": "N/A"
+}

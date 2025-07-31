@@ -1,0 +1,38 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/subrata",
+  "faculty_name": "Subrata Kumar Dey",
+  "designation": "Lecturer A, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2007",
+      "degree": "MSc in Computer Science",
+      "field": "Computer Science",
+      "institution": "Independent University, Bangladesh"
+    },
+    {
+      "year": "2002",
+      "degree": "Post Graduate Diploma in Human Resource Management",
+      "field": "Human Resource Management",
+      "institution": "Pondicherry University, India"
+    },
+    {
+      "year": "2001",
+      "degree": "Master in Computer Application",
+      "field": "Computer Application",
+      "institution": "University of Madras, India"
+    },
+    {
+      "year": "1998",
+      "degree": "B.Sc. in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Madras, India"
+    }
+  ],
+  "area_of_research": "Object Oriented Programming Design, Cloud Based E- Governance and E-Commerce",
+  "email": "subrata@iub.edu.bd",
+  "room_number": "BC 6005C",
+  "total_citation": "89",
+  "h_Index": "6",
+  "i_index": "3"
+}

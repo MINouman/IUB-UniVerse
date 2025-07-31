@@ -1,0 +1,23 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 203L: Data Structure Lab - A 1-credit core course. Prerequisites: CSE 100,CSE 100L,CSE 200,CSE 200L. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 203L",
+      "course_name": "Data Structure Lab",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 1,
+      "prerequisites": [
+        "CSE 100",
+        "CSE 100L",
+        "CSE 200",
+        "CSE 200L"
+      ],
+      "department": "CSE",
+      "level": "200",
+      "area": "core"
+    }
+  }
+}

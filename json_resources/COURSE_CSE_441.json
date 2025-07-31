@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 441: Instrumentation & measurements - A 3-credit technical elective course focusing on digital electronics and system design. Prerequisites: CSE 216,CSE 216L.",
+    "metadata": {
+      "course_code": "CSE 441",
+      "course_name": "Instrumentation & measurements",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 03: Digital System Design",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 216",
+        "CSE 216L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "digital_systems"
+    }
+  }
+}

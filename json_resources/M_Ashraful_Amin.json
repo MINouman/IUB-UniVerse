@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/aminmdashraful",
+  "faculty_name": "M Ashraful Amin",
+  "designation": "Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2009",
+      "degree": "PhD in Electronic Engineering",
+      "field": "Electronic Engineering",
+      "institution": "City University of Hong Kong, Hong Kong"
+    },
+    {
+      "year": "2005",
+      "degree": "Master of Science in Computer Science & Information Management",
+      "field": "Computer Science & Information Management",
+      "institution": "Asian Institute of Technology, Thailand"
+    },
+    {
+      "year": "2002",
+      "degree": "Bachelor of Science in Computer Science and Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "North South University, Bangladesh"
+    }
+  ],
+  "area_of_research": "Machine Learning, Cognitive & Vision Science, Cybernetics, Surveillance & Security, ICT in Education, Health, & Agriculture, HCI, IoT & Robotics",
+  "email": "aminmdashraful@iub.edu.bd",
+  "room_number": "BC 5001 D",
+  "total_citation": "1671",
+  "h_Index": "20",
+  "i_index": "42"
+}

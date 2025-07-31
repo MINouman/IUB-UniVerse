@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "MAT 420: Computational Geometry - A 3-credit technical elective course exploring theoretical computer science concepts. Prerequisites: CSE 317,CSE 317L.",
+    "metadata": {
+      "course_code": "MAT 420",
+      "course_name": "Computational Geometry",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 07: CS Theory",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L"
+      ],
+      "department": "MAT",
+      "level": "400",
+      "area": "theory"
+    }
+  }
+}

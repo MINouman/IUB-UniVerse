@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 443: Digital Signal Processing - A 3-credit technical elective course covering computer networks and communication systems. Prerequisites: CSE 317,CSE 317L.",
+    "metadata": {
+      "course_code": "CSE 443",
+      "course_name": "Digital Signal Processing",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 02: Data Communication & Networking",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "networking"
+    }
+  }
+}

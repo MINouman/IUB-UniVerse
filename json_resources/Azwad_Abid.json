@@ -1,0 +1,26 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/azwadabid",
+  "faculty_name": "Azwad Abid",
+  "designation": "Lecturer B, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2023",
+      "degree": "Master of Applied Science in Systems Design Engineering",
+      "field": "Systems Design Engineering",
+      "institution": "University of Waterloo, Canada"
+    },
+    {
+      "year": "2019",
+      "degree": "Bachelor of Engineering in Electrical Mechatronics",
+      "field": "Electrical Mechatronics",
+      "institution": "University of Technology Malaysia, Malaysia"
+    }
+  ],
+  "area_of_research": "Embedded Systems, Robotics, Computer Vision, Machine Learning, AR/VR, Unmanned Aerial Vehicle (UAV/Drone)",
+  "email": "azwadabid@iub.edu.bd",
+  "room_number": "BC 5023B",
+  "total_citation": "113",
+  "h_Index": "3",
+  "i_index": "2"
+}

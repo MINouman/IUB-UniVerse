@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 499: Internship Program - A 3-credit technical elective course covering practical IT skills and technologies.",
+    "metadata": {
+      "course_code": "CSE 499",
+      "course_name": "Internship Program",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 10: Information Technology",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "CSE",
+      "level": "400",
+      "area": "it"
+    }
+  }
+}

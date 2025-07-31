@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 488: Introduction to Data Visualization, Statistical Modeling and Machine Learning - A 3-credit technical elective course focusing on data analytics and digitalization. Prerequisites: CSE 432.",
+    "metadata": {
+      "course_code": "CSE 488",
+      "course_name": "Introduction to Data Visualization, Statistical Modeling and Machine Learning",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 09: Data Analytics & Digitalization",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 432"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "analytics"
+    }
+  }
+}

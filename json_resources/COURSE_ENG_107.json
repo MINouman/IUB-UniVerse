@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "ENG 107: Professional Writing - A 3-credit foundation course covering computer networks and communication systems. Prerequisites: ENG 101,ENG 102. Part of Foundation curriculum (9 credits total).",
+    "metadata": {
+      "course_code": "ENG 107",
+      "course_name": "Professional Writing",
+      "course_type": "Foundation",
+      "course_subtype": "Communication Skills (Credits: 9)",
+      "credits": 3,
+      "prerequisites": [
+        "ENG 101",
+        "ENG 102"
+      ],
+      "department": "ENG",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

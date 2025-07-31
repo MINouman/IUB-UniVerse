@@ -1,0 +1,38 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/shakhawat",
+  "faculty_name": "Md Shakhawat Hossain, PhD",
+  "designation": "Assistant Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2020",
+      "degree": "PhD in Biomedical Engineering",
+      "field": "Biomedical Engineering",
+      "institution": "Tokyo Institute of Technology, Japan (in collaboration with Memorial Sloan Kettering Cancer Center, USA), Japan | USA"
+    },
+    {
+      "year": "2017",
+      "degree": "Master in Biomedical Engineering",
+      "field": "Biomedical Engineering",
+      "institution": "Tokyo Institute of Technology, Japan (in collaboration with Massachusetts General Hospital and Harvard Medical School, USA), Japan | USA"
+    },
+    {
+      "year": "2013",
+      "degree": "BSc in Computer Science and Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "Rajshahi University, Bangladesh"
+    },
+    {
+      "year": "2010",
+      "degree": "Bachelor in Computer Science and Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "Rajshahi University, Bangladesh"
+    }
+  ],
+  "area_of_research": "Medical Image Analysis, Machine Learning, Computer Vision and Image Processing, Digital and Computational Pathology, Cancer Diagnosis (Breast, Colorectal and Ovarian)",
+  "email": "shakhawat@iub.edu.bd",
+  "room_number": "C 7015",
+  "total_citation": "812",
+  "h_Index": "16",
+  "i_index": "19"
+}

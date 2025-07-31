@@ -1,0 +1,44 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/ashraful",
+  "faculty_name": "Ashraful Islam, PhD",
+  "designation": "Assistant Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2022",
+      "degree": "PhD in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Louisiana at Lafayette, USA"
+    },
+    {
+      "year": "2020",
+      "degree": "MSc in Computer Science",
+      "field": "Computer Science",
+      "institution": "University of Louisiana at Lafayette, USA"
+    },
+    {
+      "year": "2016",
+      "degree": "B.Sc. in Computer Science and Engineering",
+      "field": "Computer Science and Engineering",
+      "institution": "Ahsanullah University of Science and Technology, Bangladesh"
+    },
+    {
+      "year": "2011",
+      "degree": "Higher Secondary Certificate in Science",
+      "field": "Science",
+      "institution": "Notre Dame College, Bangladesh"
+    },
+    {
+      "year": "2009",
+      "degree": "Secondary School Certificate (SSC)",
+      "field": "Science",
+      "institution": "Feni Govt. Pilot High School, Bangladesh"
+    }
+  ],
+  "area_of_research": "Human-Computer Interaction (HCI), Machine Learning, Health Informatics, mHealth and Digital Health, Social and Healthcare HCI",
+  "email": "ashraful@iub.edu.bd",
+  "room_number": "MK 8004",
+  "total_citation": "651",
+  "h_Index": "12",
+  "i_index": "13"
+}

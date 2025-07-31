@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 316: Computer Networks - A 3-credit core course. Prerequisites: CSE 216,CSE 216L. Part of Core curriculum (68 credits total).",
+    "metadata": {
+      "course_code": "CSE 316",
+      "course_name": "Computer Networks",
+      "course_type": "Core",
+      "course_subtype": "Core (Credits: 68)",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 216",
+        "CSE 216L"
+      ],
+      "department": "CSE",
+      "level": "300",
+      "area": "core"
+    }
+  }
+}

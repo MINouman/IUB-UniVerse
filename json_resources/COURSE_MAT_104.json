@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "MAT 104: Calculus and Analytical Geometry - A 3-credit foundation course covering mathematical foundations for computer science. Part of Foundation curriculum (6 credits total).",
+    "metadata": {
+      "course_code": "MAT 104",
+      "course_name": "Calculus and Analytical Geometry",
+      "course_type": "Foundation",
+      "course_subtype": "Numeracy (Credits:6)",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "MAT",
+      "level": "100",
+      "area": "foundation"
+    }
+  }
+}

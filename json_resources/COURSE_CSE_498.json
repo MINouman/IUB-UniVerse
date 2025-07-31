@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 498: Senior Project - A 6-credit project course. Prerequisites: CSE 398,CSE 425.",
+    "metadata": {
+      "course_code": "CSE 498",
+      "course_name": "Senior Project",
+      "course_type": "Major Projects",
+      "course_subtype": "",
+      "credits": 6,
+      "prerequisites": [
+        "CSE 398",
+        "CSE 425"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "projects"
+    }
+  }
+}

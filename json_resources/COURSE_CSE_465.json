@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 465: Advanced Web Programming - A 3-credit technical elective course covering practical IT skills and technologies. Prerequisites: CSE 309.",
+    "metadata": {
+      "course_code": "CSE 465",
+      "course_name": "Advanced Web Programming",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 10: Information Technology",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 309"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "it"
+    }
+  }
+}

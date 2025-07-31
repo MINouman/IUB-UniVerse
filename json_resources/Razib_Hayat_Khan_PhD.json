@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/rkhan",
+  "faculty_name": "Razib Hayat Khan, PhD",
+  "designation": "Associate Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2013",
+      "degree": "PhD in Software Engineering",
+      "field": "Software Engineering",
+      "institution": "Norwegian University of Science and Technology (NTNU), Norway"
+    },
+    {
+      "year": "2008",
+      "degree": "MSc in Information and Communication Systems Security",
+      "field": "Information and Communication Systems Security",
+      "institution": "KTH Royal Institute of Technology, Sweden"
+    },
+    {
+      "year": "2004",
+      "degree": "BSc in Computer Science and IT",
+      "field": "Computer Science and IT",
+      "institution": "Islamic University of Technology (IUT), Bangladesh"
+    }
+  ],
+  "area_of_research": "Software Engineering, IT Security, IoT, QoS Modeling, Exploratory Data Analysis",
+  "email": "rkhan@iub.edu.bd",
+  "room_number": "C 7007",
+  "total_citation": "928",
+  "h_Index": "17",
+  "i_index": "27"
+}

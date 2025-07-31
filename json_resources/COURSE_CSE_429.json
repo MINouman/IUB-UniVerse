@@ -1,0 +1,21 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 429: Introduction to Operations Research - A 3-credit technical elective course exploring theoretical computer science concepts. Prerequisites: CSE 317,CSE 317L.",
+    "metadata": {
+      "course_code": "CSE 429",
+      "course_name": "Introduction to Operations Research",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 07: CS Theory",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 317",
+        "CSE 317L"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "theory"
+    }
+  }
+}

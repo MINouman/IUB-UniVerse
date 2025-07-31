@@ -1,0 +1,20 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CSE 485: Introduction to Game Theory & Mechanism Design - A 3-credit technical elective course exploring theoretical computer science concepts. Prerequisites: CSE 425.",
+    "metadata": {
+      "course_code": "CSE 485",
+      "course_name": "Introduction to Game Theory & Mechanism Design",
+      "course_type": "Technical Electives",
+      "course_subtype": "Area 07: CS Theory",
+      "credits": 3,
+      "prerequisites": [
+        "CSE 425"
+      ],
+      "department": "CSE",
+      "level": "400",
+      "area": "theory"
+    }
+  }
+}

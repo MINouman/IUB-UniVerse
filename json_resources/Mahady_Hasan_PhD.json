@@ -1,0 +1,44 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/mahady",
+  "faculty_name": "Mahady Hasan, PhD",
+  "designation": "Associate Professor, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2010",
+      "degree": "Doctor of Philosophy in Computer Science and Engineering",
+      "field": "Philosophy in Computer Science and Engineering",
+      "institution": "University of New South Wales, Australia"
+    },
+    {
+      "year": "2004",
+      "degree": "Masters of Information Technology in Database",
+      "field": "Information Technology in Database",
+      "institution": "University of Sydney, Australia"
+    },
+    {
+      "year": "2001",
+      "degree": "B.Sc. (Hons.) in Computer Science",
+      "field": "Computer Science",
+      "institution": "Independent University, Bangladesh, Bangladesh"
+    },
+    {
+      "year": "1997",
+      "degree": "Higher Secondary Certificate (HSC)",
+      "field": "Science",
+      "institution": "Notre Dame College, Bangladesh"
+    },
+    {
+      "year": "1995",
+      "degree": "Secondary School Certificate (SSC)",
+      "field": "Science",
+      "institution": "St. Joseph High School, Bangladesh"
+    }
+  ],
+  "area_of_research": "Software Engineering Economics, Engineering education innovation, Sustainable Intelligent Systems",
+  "email": "mahady@iub.edu.bd",
+  "room_number": "BC 5011",
+  "total_citation": "1023",
+  "h_Index": "15",
+  "i_index": "24"
+}

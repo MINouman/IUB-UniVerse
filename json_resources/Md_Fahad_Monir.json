@@ -1,0 +1,32 @@
+{
+  "profile_link": "https://iub.ac.bd/academics/departments/cse/faculty-and-staff/fahad.monir",
+  "faculty_name": "Md Fahad Monir",
+  "designation": "Lecturer A, Dept. of CSE",
+  "department": "School of Engineering, Technology and Sciences",
+  "education": [
+    {
+      "year": "2017",
+      "degree": "MSc. in Telecommunication Engineering",
+      "field": "Telecommunication Engineering",
+      "institution": "University of Trento, UNITN, Italy"
+    },
+    {
+      "year": "2016",
+      "degree": "MSc. in IT",
+      "field": "Information Technology",
+      "institution": "KTH Royal Institute of Technology, Stockholm, Sweden"
+    },
+    {
+      "year": "2014",
+      "degree": "BSc. in Communication Engineering",
+      "field": "Communication Engineering",
+      "institution": "International Islamic University Malaysia, Malaysia"
+    }
+  ],
+  "area_of_research": "no data",
+  "email": "fahad.monir@iub.edu.bd",
+  "room_number": "BC 5010",
+  "total_citation": "82",
+  "h_Index": "5",
+  "i_index": "3"
+}

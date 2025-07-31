@@ -1,0 +1,18 @@
+{
+  "university": "Independent University Bangladesh (IUB)",
+  "department": "Computer Science and Engineering",
+  "course": {
+    "content": "CMN 201: Introduction to Communication - A 3-credit foundation course exploring social, economic, and anthropological perspectives. Part of Foundation curriculum (6 credits total).",
+    "metadata": {
+      "course_code": "CMN 201",
+      "course_name": "Introduction to Communication",
+      "course_type": "Foundation",
+      "course_subtype": "Social Sciences (Credits:6)",
+      "credits": 3,
+      "prerequisites": [],
+      "department": "CMN",
+      "level": "200",
+      "area": "foundation"
+    }
+  }
+}
