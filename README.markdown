@@ -167,7 +167,7 @@ These metrics can be gathered through user testing, automated evaluations, or sy
   - **Query Enhancement**: Implementing techniques like query expansion to refine vague queries for better retrieval.
 
 ### User Interface 
-![API](API image.png)
+![API](APIimage.png)
 ![Main Page](UI-2.png)
 ![Chatbot](UI-3(main).png)
 ![Chatbot](UI-3.png)
