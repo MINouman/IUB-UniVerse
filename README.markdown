@@ -165,3 +165,12 @@ These metrics can be gathered through user testing, automated evaluations, or sy
   - **Advanced Embedding Models**: Utilizing models fine-tuned on university-specific data or larger models for improved semantic capture.
   - **Expanded Knowledge Base**: Including more comprehensive and up-to-date documents to cover a wider range of queries.
   - **Query Enhancement**: Implementing techniques like query expansion to refine vague queries for better retrieval.
+
+### User Interface 
+![API](API image.png)
+![Main Page](UI-2.png)
+![Chatbot](UI-3(main).png)
+![Chatbot](UI-3.png)
+![Chatbot](UI-3(2).png)
+![Main Page](UI-1.png)
+![Main Page](UI-1.png)
